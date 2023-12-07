@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPACES</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="home">Home</string>
+    <string name="model_1">Shelf Unit</string>
+    <string name="model_2">Small Cupboard</string>
+    <string name="model_3">Cupboard</string>
+    <string name="model_4">Desk</string>
+</resources>
